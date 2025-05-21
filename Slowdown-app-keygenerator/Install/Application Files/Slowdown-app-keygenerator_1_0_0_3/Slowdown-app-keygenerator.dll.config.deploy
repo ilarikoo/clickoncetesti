@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Slowdown_app_keygenerator.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="Slowdown_app_keygenerator.Themes.ThemeSettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <Slowdown_app_keygenerator.Properties.Settings>
+            <setting name="DelaySeconds" serializeAs="String">
+                <value>30</value>
+            </setting>
+        </Slowdown_app_keygenerator.Properties.Settings>
+        <Slowdown_app_keygenerator.Themes.ThemeSettings>
+            <setting name="Theme" serializeAs="String">
+                <value>Theme_KareliaGreen</value>
+            </setting>
+        </Slowdown_app_keygenerator.Themes.ThemeSettings>
+    </userSettings>
+</configuration>
