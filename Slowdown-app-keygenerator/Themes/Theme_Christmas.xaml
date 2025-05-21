@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="ThemeDisplayName">Joulu on taas</system:String>
+
+    <!-- Brushes -->
+    <SolidColorBrush x:Key="PrimaryColor" Color="#ff3036"/>
+    <SolidColorBrush x:Key="SecondaryColor" Color="#9c0004"/>
+    <SolidColorBrush x:Key="BackgroundColor" Color="#0a3408"/>
+
+    <SolidColorBrush x:Key="ButtonColor_Hover" Color="#ff7b7f"/>
+    <SolidColorBrush x:Key="ButtonColor_Pressed" Color="#ffc3c5"/>
+
+    <SolidColorBrush x:Key="FontColor_Primary" Color="#ffffff"/>
+
+    <SolidColorBrush x:Key="TitleBar_ButtonColor" Color="#ffffff"/>
+
+</ResourceDictionary>

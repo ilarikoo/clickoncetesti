@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="ThemeDisplayName">Aurinkoisen keltaiset</system:String>
+
+    <!-- Brushes -->
+    <SolidColorBrush x:Key="PrimaryColor" Color="#f6d211"/>
+    <SolidColorBrush x:Key="SecondaryColor" Color="#ce9100"/>
+    <SolidColorBrush x:Key="BackgroundColor" Color="#fff9d9"/>
+
+    <SolidColorBrush x:Key="ButtonColor_Hover" Color="#fff9c5"/>
+    <SolidColorBrush x:Key="ButtonColor_Pressed" Color="#908e81"/>
+
+    <SolidColorBrush x:Key="FontColor_Primary" Color="#000000"/>
+
+    <SolidColorBrush x:Key="TitleBar_ButtonColor" Color="#000000"/>
+
+</ResourceDictionary>

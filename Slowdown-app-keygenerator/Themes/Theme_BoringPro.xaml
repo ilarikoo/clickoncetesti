@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="ThemeDisplayName">Tylsä ammattilainen</system:String>
+
+    <!-- Brushes -->
+    <SolidColorBrush x:Key="PrimaryColor" Color="#2b2b2b"/>
+    <SolidColorBrush x:Key="SecondaryColor" Color="#1b1b1b"/>
+    <SolidColorBrush x:Key="BackgroundColor" Color="#080808"/>
+
+    <SolidColorBrush x:Key="ButtonColor_Hover" Color="#6e6e6e"/>
+    <SolidColorBrush x:Key="ButtonColor_Pressed" Color="#a5a5a5"/>
+
+    <SolidColorBrush x:Key="FontColor_Primary" Color="#ffffff"/>
+
+    <SolidColorBrush x:Key="TitleBar_ButtonColor" Color="#ffffff"/>
+
+</ResourceDictionary>
